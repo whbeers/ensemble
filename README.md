@@ -1,6 +1,6 @@
 # Ensemble Fuzz Effect
 
-This is a semi-original octave fuzz, based most directly on the Death By Audio Octave Clang, but with many of my own tweaks and additions.
+This is a semi-original octave fuzz, based most directly on the Death By Audio "Octave Clang", but with many of my own tweaks and additions. Designed in [KiCAD](https://www.kicad.org).
 
 The board is built on the ["Noise Floor"](https://github.com/whbeers/noise_floor) pedal platform, which provides basic power protection, audio IO, and a footswitch with LED indicator.
 
@@ -12,6 +12,11 @@ The board is built on the ["Noise Floor"](https://github.com/whbeers/noise_floor
 ## Credit
 I drew inspiration from a number of publicly-available schematics, but most directly, public traces of the out-of-production [Death By Audio](https://deathbyaudio.com/) "Octave Clang" as portrayed in the PCBGuitarMania ["Death by Octaver"](https://pcbguitarmania.com/product/death-by-octaver/), and by various contributors to the [thread at freestomboxes.org](https://www.freestompboxes.org/viewtopic.php?t=11122). I became interested in the effect after hearing the original maker, Oliver Ackermann, [demonstrate the Octave Clang](https://youtu.be/_RslAoTyIwk?t=2671) in a feature on EarthQuaker Devices' YouTube channel.
 
+Thanks as always to the folks on the [freestompboxes.org](https://www.freestompboxes.org) forum for their feedback, suggestions, and the wealth of knowledge they provide for curious tinkerers like myself.
+
+*I am not affiliated with any of the brands, sites, or products named in this overview.*
+
+## My Modifications
 Using what I could find out about Octave Clang as a basis, my circuit makes the following modifications:
  - added flexibility through three switchable signal paths through the octave transfomer:
    1. primary->secondary, full winding: subtle, mostly tame, driven octave effect
@@ -20,11 +25,7 @@ Using what I could find out about Octave Clang as a basis, my circuit makes the 
  - added a balance pot to dial in amount of octave effect.
  - added a (switchable) hard clipping stage to rein in the overall output level and add a very distinct, but still octave fuzz voice to the effect.
  - tweaked component values to make the effect slightly more accessible across a range of volumes and gains (and use more commonly-available values)
- - omitted the input-side tone control pot. I found 
-
-Thanks as always to the folks on the [freestompboxes.org](https://www.freestompboxes.org) forum for their feedback and suggestions on my design, as well as well over a decade of tracing circuits.
-
-*I am not affiliated with any of the brands, sites, or products named in this overview.*
+ - omitted the input-side tone control pot, as it tended to attenuate the signal to an unhelpful degree.
 
 ## Versioning
 
