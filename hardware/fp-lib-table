@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ensemble")(type "KiCad")(uri "${KIPRJMOD}/ensemble.pretty")(options "")(descr ""))
+)
