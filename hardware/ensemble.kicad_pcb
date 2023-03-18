@@ -1763,6 +1763,9 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp dc70e1b4-ff5c-44b4-9e06-2fab5c16dfa1))
   (gr_arc (start 73 71) (mid 72.414214 72.414214) (end 71 73)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp e42e63d0-cd43-47cf-811d-0e553ae13209))
+  (gr_text "     ${COMMENT1}                                     ${REVISION}    " (at 72.75 72.75) (layer "B.SilkS" knockout) (tstamp 06f1fcf5-db20-417b-8404-9d5c8d1bc3fb)
+    (effects (font (size 0.8 0.8) (thickness 0.15)) (justify left bottom mirror))
+  )
 
   (zone (net 15) (net_name "GND") (layer "B.Cu") (tstamp 71a4862d-3057-452b-9f01-509282026e6e) (hatch edge 0.5)
     (connect_pads (clearance 0.5))
