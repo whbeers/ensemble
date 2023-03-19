@@ -10,7 +10,7 @@ The board is built on the ["Noise Floor"](https://github.com/whbeers/noise_floor
 [Schematic PDF](schematics/ensemble-latest.pdf)
 
 ## Credit
-I drew inspiration from a number of publicly-available octave fuzz schematics, but most directly public traces of the out-of-production [Death By Audio](https://deathbyaudio.com/) "Octave Clang" as portrayed in the PCBGuitarMania ["Death by Octaver"](https://pcbguitarmania.com/product/death-by-octaver/), and by various contributors to the [thread at freestomboxes.org](https://www.freestompboxes.org/viewtopic.php?t=11122). I became interested in the effect after hearing the original maker, Oliver Ackermann, [demonstrate the Octave Clang](https://youtu.be/_RslAoTyIwk?t=2671) in a feature on EarthQuaker Devices' YouTube channel.
+I drew inspiration from a number of publicly-available octave fuzz schematics, but most directly public traces of the out-of-production [Death By Audio](https://deathbyaudio.com/) "Octave Clang" as portrayed in the PCBGuitarMania ["Death by Octaver" schematic](https://pcbguitarmania.com/product/death-by-octaver/), and by various contributors to the [thread at freestomboxes.org](https://www.freestompboxes.org/viewtopic.php?t=11122). I became interested in the effect after hearing the original maker, Oliver Ackermann, [demonstrate the Octave Clang](https://youtu.be/_RslAoTyIwk?t=2671) in a feature on EarthQuaker Devices' YouTube channel.
 
 Thanks as always to the folks on the [freestompboxes.org](https://www.freestompboxes.org) forum for their feedback, suggestions, and the wealth of knowledge they provide for curious tinkerers like myself.
 
