@@ -55,7 +55,7 @@
     )
   )
   (model "${KIPRJMOD}/ensemble.pretty/4PDT_Toggle_Switch.stp"
-    (offset (xyz -2.667 -1.27 0.499999))
+    (offset (xyz -2.032 -1.27 0.499999))
     (scale (xyz 0.975 1 1))
     (rotate (xyz 0 0 0))
   )
