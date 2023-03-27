@@ -14,9 +14,11 @@ I drew inspiration from a number of publicly-available octave fuzz schematics, b
 
 Thanks as always to the folks on the [freestompboxes.org](https://www.freestompboxes.org/) forum for feedback and suggestions.
 
-Potentiometer and 3PDT toggle switch 3D models courtesy [Vasily Kashirin](https://grabcad.com/vasily.kashirin-1).
+Potentiometer 3D model courtesy [Vasily Kashirin](https://grabcad.com/vasily.kashirin-1).
 
 SPDT toggle switch 3D model courtesy [Stephanie Schwecke](https://grabcad.com/stephanie.schwecke-1).
+
+4PDT toggle switch 3D model courtesy [David Farrow](https://grabcad.com/library/4pdt-toggle-switch-1).
 
 *I am not affiliated with any of the brands, sites, or products named in this overview.*
 
